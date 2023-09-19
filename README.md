@@ -10,7 +10,7 @@ approximately 4% and 96% , respectively.
 
 # Training
 
-'''python
+```python
 class_weights = {0 : 1, 1 : (len(y_train_) - sum(y_train_)) / sum(y_train_)}
 best_params = []
 
@@ -47,5 +47,5 @@ for clf in clfs:
     best_p = grid_search(clf[1], clf[2], X_app2, y_train_)
     print(best_p)
     best_params.append([clf[0], best_p])
-'''
+```
 
