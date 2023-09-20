@@ -1,6 +1,10 @@
 # Bankruptcy-Classification
 An evaluation of client's economic health and with the predominance of data collection, using ML algorithms to determine their ability to pay back their loans.
 
+Credit risk refers to the risk that arises from the possibility that a borrower may fail to meet their debt obligations. This type of risk, along with market risk and operational risk, constitute the three largest classes of risk that financial institutions face. Banks incur a significant amount of credit risk through the distribution of a wide range of financial instruments, including loans, bonds, various types of options, acceptances and foreign exchange transactions, to name a few. 
+
+Assessing credit risk allows banks to remain profitable, by offering loans  only to those borrowers whose credit score deems them more likely to repay loans,  and denying loans to those whose credit history suggests an increased likelihood of default. While this may seem relatively simple, the actual process is far more complicated. This is because banks have to assess and manage credit risk associated with entire portfolios of investments as well as individual loans. Ultimately, the goal of credit risk assessment is to maintain the level of credit risk associated with the issuance of financial instruments within certain bounds, allowing for the maximization of risk adjusted returns.
+
 # Data
 
 Data collected on Polish companies from 2000-2012. The data set consists of over 60 numerical attributes extracted from the financial statements of Polish companies.
